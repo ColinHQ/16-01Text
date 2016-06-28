@@ -15,6 +15,8 @@
  */
 
 package com.example.bluetoothtest;
+//Colin 数据更新 值得是在服务器上直接加数据【模拟 其他小伙伴 把更新好的代码 上传到中心库】
+
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
