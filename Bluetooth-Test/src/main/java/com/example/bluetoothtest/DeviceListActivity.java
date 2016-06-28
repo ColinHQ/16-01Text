@@ -44,6 +44,7 @@ import java.util.Set;
  * Activity in the result Intent.
  */
 public class DeviceListActivity extends Activity {
+	//这是谁的界面啊？  此次模拟的是本地更新代码
     // Debugging
     private static final String TAG = "DeviceListActivity";
 
